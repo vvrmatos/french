@@ -1,6 +1,6 @@
 # Un petit lapin nommé Léo
 
-Il était une fois un petit lapin nommé Léo. 
+Il était une fois un petit lapin nommé Léo.
 <sub>Once upon a time, there was a little rabbit named Léo.</sub>
 
 Léo aimait manger des carottes sucrées. 
