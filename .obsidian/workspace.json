@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4e595fbbec716712",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "stories/01-enfant/0001 - A little rabbit named Leo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "stories/01-enfant/0001 - A little rabbit named Leo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "stories/01-enfant/0001 - A little rabbit named Leo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "stories/01-enfant/0001 - A little rabbit named Leo.md"
               }
             }
           }
@@ -146,10 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94344445d80244eb",
+  "active": "4e595fbbec716712",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "README.md",
-    "Untitled.md"
+    "stories/01-enfant/0001 - A little rabbit named Leo.md",
+    "stories/04-veteran",
+    "stories/03-adulte",
+    "stories/02-jeune",
+    "stories/01-enfant",
+    "stories",
+    "Untitled.canvas"
   ]
 }
